@@ -1,5 +1,5 @@
 window.CUSDIS_LOCALE = {
-    powered_by: '',
+    powered_by: '&nbsp;',
     post_comment: 'Comentar',
     loading: 'Cargando',
   
